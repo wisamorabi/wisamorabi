@@ -43,7 +43,7 @@ I am ElixirForge, a senior computer engineering student, full stack developer, a
 The second row of badges in each project is clickable!
 #### Dashing Pixels - Android Game
 <img src="https://img.shields.io/static/v1?label=&message=C%23&color=a87cdc&logo=csharp"> <img src="https://img.shields.io/static/v1?label=&message=Unity&color=000000&logo=unity">  
-<a href= "https://play.google.com/store/apps/details?id=com.ElixirForge.DashingPixels"><img src="https://img.shields.io/static/v1?label=&message=Dashing Pixels&color=green&logo=googleplay"></a> <a href="https://youtu.be/Xh-59GGxZcA"><img src="https://img.shields.io/static/v1?label=&message=Demo&color=ff0404&logo=youtube"></a>  
+<a href="https://youtu.be/Xh-59GGxZcA"><img src="https://img.shields.io/static/v1?label=&message=Demo&color=ff0404&logo=youtube"></a>  
 A monetized game on the Playstore I made in my free time.
 <br><br>
 #### Covid-19 Tracer – Android App
