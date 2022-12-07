@@ -2,7 +2,7 @@
   <div align="center">
 <img align="center" src="readmeResources/ElixirForge.png" alt="ElixirForge" height="250" style="border-radius:50px">   
 <h3>ElixirForge</h3>
- <p>:tropical_fish: Full Stack Developer :fish:</p>
+ <p>:tropical_fish: Software Engineer :fish:</p>
 
 [![YouTube](https://img.shields.io/static/v1?label=&message=Youtube&color=ff0404&logo=youtube)](https://www.youtube.com/channel/UCqT8vsFjKN57tb2WbUpYSNg)
 [![Email](https://img.shields.io/static/v1?label=&message=Email&color=red&logo=gmail&logoColor=white)](mailto:elixirforge0@gmail.com)
@@ -12,7 +12,7 @@
 ## :dizzy: About
 
 Hey there :D
-I am ElixirForge, a full stack developer, and game dev too! All the badges are clickable, have a look around!
+I am ElixirForge, a software engineer, and game dev too! All the badges are clickable, have a look around!
 
 #### Languages
 
@@ -124,7 +124,7 @@ An Android app utilizing Google Maps API & Firebase for Covid-19 contact tracing
 [![Repository 3](https://img.shields.io/static/v1?label=&message=medex-personnel-microservice&color=black&logo=github)](https://www.github.com/ElixirForge/medex-personnel-microservice)
 [![Repository 4](https://img.shields.io/static/v1?label=&message=medex-doctor-microservice&color=black&logo=github)](https://www.github.com/ElixirForge/medex-doctor-microservice)
 [![Repository 5](https://img.shields.io/static/v1?label=&message=medex-android-app&color=black&logo=github)](https://www.github.com/ElixirForge/medex-android-app)  
-A Java full stack microservice-based medicine delivery service deployed on AWS.
+A Java full stack microservices-based medicine delivery service deployed on AWS.
 <br><br>
 
 #### Bozo's Revenge - Arduino-Based Reflex Game
