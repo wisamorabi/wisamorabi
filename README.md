@@ -43,7 +43,7 @@ I am ElixirForge, a full stack developer, and game dev too! All the badges are c
 
 [![NodeJS](https://img.shields.io/static/v1?label=&message=NodeJS&color=699E54&logo=node.js&logoColor=white)](https://nodejs.org)
 [![Yarn](https://img.shields.io/static/v1?label=&message=Yarn&logo=yarn&color=2C8EBB&logoColor=white)](https://yarnpkg.com)
-[![npm](https://img.shields.io/static/v1?label=&message=npm&color=C10B0B&logo=npm&logoColor=green)](https://www.npmjs.com)
+[![npm](https://img.shields.io/static/v1?label=&message=npm&color=C10B0B&logo=npm&logoColor=white)](https://www.npmjs.com)
 [![Tomcat](https://img.shields.io/static/v1?label=&message=Tomcat&color=F8DC75&logo=apachetomcat&logoColor=grey)](https://tomcat.apache.org)
 [![Celery](https://img.shields.io/static/v1?label=&message=Celery&color=green&logo=celery)](https://docs.celeryq.dev)
 [![Postman](https://img.shields.io/static/v1?label=&message=Postman&color=EE7447&logo=postman&logoColor=white)](https://www.postman.com)
