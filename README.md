@@ -60,11 +60,12 @@ Hello there! My name is Wisam Orabi, and I am a software engineer. All the badge
 
 #### Other Technologies & Tools
 
+[![RabbitMQ](https://img.shields.io/static/v1?label=&message=RabbitMQ&color=white&logo=rabbitmq)](https://www.rabbitmq.com)
+[![Celery](https://img.shields.io/static/v1?label=&message=Celery&color=green&logo=celery)](https://docs.celeryq.dev)
 [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=699E54&logo=node.js&logoColor=white)](https://nodejs.org)
 [![Yarn](https://img.shields.io/static/v1?label=&message=Yarn&logo=yarn&color=2C8EBB&logoColor=white)](https://yarnpkg.com)
 [![npm](https://img.shields.io/static/v1?label=&message=npm&color=C10B0B&logo=npm&logoColor=white)](https://www.npmjs.com)
 [![Tomcat](https://img.shields.io/static/v1?label=&message=Tomcat&color=F8DC75&logo=apachetomcat&logoColor=grey)](https://tomcat.apache.org)
-[![Celery](https://img.shields.io/static/v1?label=&message=Celery&color=green&logo=celery)](https://docs.celeryq.dev)
 [![Postman](https://img.shields.io/static/v1?label=&message=Postman&color=EE7447&logo=postman&logoColor=white)](https://www.postman.com)
 [![Insomnia](https://img.shields.io/static/v1?label=&message=Insomnia&logo=insomnia&color=3C1ABA)](https://insomnia.rest)
 [![Auth0](https://img.shields.io/static/v1?label=&message=Auth0&logo=auth0&color=white&logoColor=black)](https://auth0.com)
